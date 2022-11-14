@@ -13,13 +13,13 @@ I'm a fourth year Ph.D. student in the [Theory Group](https://theory.cs.washingt
 
 ## Publications
 [An Improved Trickle-Down Theorem for Partite Complexes](https://arxiv.org/abs/2208.04486)  
-D. Abdolazimi, S. Oveis Gharan  
-*2022*  
+D. Abdolazimi, S. Oveis Gharan   
+*2022*   
 
 [Matroid Partition Property and the Secretary Problem](https://arxiv.org/abs/2111.12436)  
-D. Abdolazimi, A. Karlin, N. Klein, S. Oveis Gharan  
-*ITCS 2023*  
+D. Abdolazimi, A. Karlin, N. Klein, S. Oveis Gharan   
+*ITCS 2023*   
 
 [A Matrix Trickle-Down Theorem on Simplicial Complexes and Applications to Sampling Colorings](https://arxiv.org/abs/2106.03845)  
-D. Abdolazimi, K. Liu, S. Oveis Gharan  
+D. Abdolazimi, K. Liu, S. Oveis Gharan   
 *FOCS 2021*
