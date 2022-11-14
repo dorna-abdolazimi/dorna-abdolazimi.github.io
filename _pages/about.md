@@ -21,5 +21,5 @@ D. Abdolazimi, A. Karlin, N. Klein, S. Oveis Gharan
 *ITCS 2023*   
 
 [A Matrix Trickle-Down Theorem on Simplicial Complexes and Applications to Sampling Colorings](https://arxiv.org/abs/2106.03845)  
-D. Abdolazimi, K. Liu, S. Oveis Gharan   
-*FOCS 2021*
+D. Abdolazimi, K. Liu, S. Oveis Gharan    
+*FOCS 2021*   
