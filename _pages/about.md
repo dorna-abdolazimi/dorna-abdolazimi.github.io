@@ -22,7 +22,7 @@ Submitted, 2023 <br />
 
 [An Improved Trickle-Down Theorem for Partite Complexes](https://arxiv.org/abs/2208.04486) <br />
 D. Abdolazimi, S. Oveis Gharan <br /> 
-CCC, 2022 <br /> 
+CCC, 2022 <br />  
 
 [Matroid Partition Property and the Secretary Problem](https://arxiv.org/abs/2111.12436) <br />
 D. Abdolazimi, A. Karlin, N. Klein, S. Oveis Gharan <br />
