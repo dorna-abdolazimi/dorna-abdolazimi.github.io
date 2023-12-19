@@ -11,9 +11,9 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Dorna Abdolazimi"
 description              : &description "PhD student at UW"
-url                      : https://ds-abd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://dorna-abdolazimi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ds-abd/ds-abd.github.io"
+repository               : "dorna-abdolazimi/dorna-abdolazimi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ds-abd"
+  github           : "dorna-abdolazimi"
   google_plus      :
   keybase          :
   instagram        :
