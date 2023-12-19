@@ -14,7 +14,7 @@ I'm a fourth-year Ph.D. student in the [Theory Group](https://theory.cs.washingt
 ## Publications
 [On Optimization and Counting of Non-Broken Bases of Matroids](https://arxiv.org/abs/2305.03307) <br />
 D. Abdolazimi, K. Lindberg, S. Oveis Gharan <br />
-Submitted, 2023 <br /> 
+*Random 2023* <br /> 
 
 [Complete Log Concavity of Coverage-Like Functions](https://arxiv.org/abs/2303.03741) <br />
 D. Abdolazimi, S. Oveis Gharan <br /> 
