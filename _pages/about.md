@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## About Me
-I'm a fourth-year Ph.D. student in the [Theory Group](https://theory.cs.washington.edu/) at the University of Washington, where I am fortunate to be advised by [Shayan Oveis Gharan](https://homes.cs.washington.edu/~shayan/). I completed my undergraduate degrees in math and computer engineering in Sharif University of Technology. You can find my CV [here](https://dornaabdolazimi.github.io/files/CV_Dorna_Abdolazimi.pdf). I am interested in the design and analysis of approximation algorithms. My main focus has been studying Markov chains using algebraic techniques.
+I'm a fifth-year Ph.D. student in the [Theory Group](https://theory.cs.washington.edu/) at the University of Washington, where I am fortunate to be advised by [Shayan Oveis Gharan](https://homes.cs.washington.edu/~shayan/). I completed my undergraduate degrees in math and computer engineering in Sharif University of Technology. You can find my CV [here](https://dornaabdolazimi.github.io/files/CV_Dorna_Abdolazimi.pdf). I am interested in the design and analysis of approximation algorithms. My main focus has been studying Markov chains using algebraic techniques.
 
 ## Publications
 [On Optimization and Counting of Non-Broken Bases of Matroids](https://arxiv.org/abs/2305.03307) <br />
